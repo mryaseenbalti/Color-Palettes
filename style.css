@@ -16,57 +16,6 @@ span{
     padding: 1.5em;
     
 }
-/* .first{
-    width: 23%;
-    height: 120px;
-    background-color: aqua;
-    border: 1px solid black;
-} */
-/* .second{
-    width: 23%;
-    height: 120px;
-    background-color: aqua;
-    border: 1px solid black;
-} */
-
-
-/* .third{
-    width: 23%;
-    height: 120px;
-    background-color: aqua;
-    border: 1px solid black;
-} */
-
-/* .fourth{
-    width: 23%;
-    height: 120px;
-    background-color: aqua;
-    border: 1px solid black;
-}
-
-
-
-.fifth{
-    width: 23%;
-    height: 120px;
-    background-color: aqua;
-    border: 1px solid black;
-}
-
-
-.sixth{
-    width: 23%;
-    height: 120px;
-    background-color: aqua;
-    border: 1px solid black;
-} */
-
-
-
-
-
-
-
 .first{
     display: flex;
     align-items: end; 
